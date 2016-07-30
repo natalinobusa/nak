@@ -6,7 +6,7 @@ organization := "org.scalanlp"
 
 scalaVersion := "2.11.1"
 
-crossScalaVersions  := Seq("2.11.1", "2.10.4")
+crossScalaVersions  := Seq("2.11.1", "2.10.5")
 
 resolvers ++= Seq(
   Resolver.mavenLocal,
